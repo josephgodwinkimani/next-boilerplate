@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">next-boilerplate</string>
+    <string name="title_activity_main">next-boilerplate</string>
+    <string name="package_name">com.godwinkimani.app</string>
+    <string name="custom_url_scheme">com.godwinkimani.app</string>
+</resources>

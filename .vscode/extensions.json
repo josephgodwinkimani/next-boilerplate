@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ionic.ionic",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "josefbiehler.cypress-fixture-intellisense"
+    ]
+}
