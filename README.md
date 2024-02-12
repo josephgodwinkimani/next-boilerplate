@@ -36,6 +36,9 @@ It encompasses features such as:
 
 Additionally, it integrates [Cypress](https://www.cypress.io/) for end-to-end testing with actual tests, user authentication using [Firebase](https://firebase.google.com/products/auth/), and [Redux](https://redux.js.org/) for client state management.
 
+![system](https://github.com/josephgodwinkimani/next-boilerplate/assets/13916761/a3fcaf97-747e-4522-9cd8-0b9cbb763f11)
+
+
 ## Documentation
 
 Visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.
